@@ -1,0 +1,221 @@
+@media only screen and (max-width:480px){
+    .manuitem{
+        display: none;
+    }
+    .manubar{
+        width: 100%;
+    }
+    .logo{
+        width: 80%;
+    }
+    .ickonbar{
+        width: 20%;
+        display: block;
+    }
+    .responsive-com{
+        display: block;
+    }
+    .responsive{
+        display: block;
+    }
+    .homesction{
+        height: auto;
+    }
+    .home-row div h2{
+        font-size: 25px;
+    }
+    .aboutsction{
+        height: auto;
+        
+    }
+    .about-row div img{
+        width: 100%;
+        
+    }
+    .about-row div:nth-child(2){
+        padding: 2% 5% 0% 5%;
+    }
+    .about-row div:nth-child(2) h2{
+        font-size: 20px;
+    }
+    .about-row div:nth-child(2) p{
+        font-size: 12px;
+    }
+    .servsection{
+        height: auto;
+    }
+    .contactsction{
+        height: auto;
+    }
+    .lastsction{
+        height: auto !important;
+        padding-bottom: 5%;
+    }
+    
+
+    
+
+    html,body{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+        overflow-x: hidden;
+        width: 100%;
+    }
+
+  
+}
+
+@media only screen and (max-width:320px){
+    .manubar{
+        width: 100%;
+    }
+    .homesction{
+        height: auto;
+    }
+    .responsive{
+        display: block;
+    }
+    .manuitem{
+        display: none;
+    }
+    .logo{
+        width: 80%;
+    }
+    .ickonbar{
+        width: 20%;
+        display: block;
+    }
+    .home-row div h2{
+        font-size: 25px;
+    }
+    .responsive-com{
+        display: block;
+    }
+    .aboutsction{
+        height: auto;
+    }
+    .about-row div img{
+        width: 100%;
+        
+    }
+    .about-row div:nth-child(2){
+        padding: 2% 5% 0% 5%;
+    }
+    .about-row div:nth-child(2) h2{
+        font-size: 20px;
+    }
+    about-row div:nth-child(2) p{
+        font-size: 12px;
+    }
+    .servsection{
+        height: auto;
+    }
+    .contactsction{
+        height: auto;
+    }
+    .lastsction{
+        height: auto !important;
+        padding-bottom: 5%;
+    }
+   
+    html,body{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+        overflow-x: hidden;
+        width: 100%;
+    }
+    
+   
+}
+
+@media only screen and (max-width: 768px) {
+    .logo h1{
+        color: red;
+        font-size: 20px;
+    }
+    .manuitem{
+        font-size: 12px;
+    }
+    .homesction{
+        height: auto;
+    }
+    .aboutsction{
+        height: auto;
+    }
+    .about-row div:nth-child(2){
+        padding: 2% 5% 0% 5%;
+    }
+    .servsection{
+        height: auto;
+    }
+    .contactsction{
+        height: auto;
+    }
+    .lastsction{
+        height: auto !important;
+        padding-bottom: 5%;
+    }
+    html,body{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box !important;
+        overflow-x: hidden !important;
+        width: 100%;
+    }
+    
+    
+   
+}
+@media only screen and (max-width: 992px) {
+    .logo h1{
+        color: red;
+        font-size: 20px;
+    }
+    .manuitem ul li{
+        font-size: 12px;
+    }
+    .homesction{
+        height: auto;
+    }
+    .aboutsction{
+        height: auto;
+    }
+    .about-row div:nth-child(2){
+        padding: 2% 5% 0% 5%;
+    }
+    .servsection{
+        height: auto;
+    }
+    .contactsction{
+        height: auto;
+    }
+    .lastsction{
+        height: auto !important;
+        padding-bottom: 5%;
+    }
+   .teamsection{
+    height: 400px;
+    width: 100%;
+    
+   }
+   html,body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box !important;
+    overflow-x: hidden !important;
+    width: 100%;
+}
+
+
+   
+   
+}
+
+
+
+
+
+
+
